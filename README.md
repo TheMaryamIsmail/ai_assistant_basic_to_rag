@@ -129,8 +129,5 @@ This repository is licensed under the MIT License.
 Developed with ❤️ by Maryam Ismail.
 
 If you find this repository useful, feel free to give it a ⭐!
-<img width="1372" height="710" alt="RAG" src="https://github.com/user-attachments/assets/d2f26b87-2897-4b75-946a-bdd989e8bf44" />
-
-<img width="1303" height="696" alt="BAsic Chat" src="https://github.com/user-attachments/assets/80cb39ce-51c2-4f3c-b95b-567a5a2a23ad" />
 
 

@@ -131,15 +131,5 @@ Developed with ❤️ by Maryam Ismail.
 If you find this repository useful, feel free to give it a ⭐!
 
 
-## 🏗️ RAG Architecture Workflow
-
-<img src="https://github.com/user-attachments/assets/9c03dbab-c3ac-4783-9608-bd986ec5b2a1" alt="RAG Architecture" width="100%" />
-
----
-
-## 💻 Visual Demos
-
-### Basic Conversational Assistant
-<img src="https://github.com/user-attachments/assets/87d9555c-f7f5-4e53-8be9-d8b34cd960e0" alt="Basic Chat Demo" width="100%" />
 
 
